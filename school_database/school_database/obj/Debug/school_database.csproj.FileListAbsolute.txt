@@ -1,0 +1,9 @@
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\bin\Debug\school_database.exe.config
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\bin\Debug\school_database.exe
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\bin\Debug\school_database.pdb
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\obj\Debug\school_database.csprojResolveAssemblyReference.cache
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\obj\Debug\school_database.Form1.resources
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\obj\Debug\school_database.Properties.Resources.resources
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\obj\Debug\school_database.csproj.GenerateResource.Cache
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\obj\Debug\school_database.exe
+c:\users\queen\documents\visual studio 2013\Projects\school_database\school_database\obj\Debug\school_database.pdb

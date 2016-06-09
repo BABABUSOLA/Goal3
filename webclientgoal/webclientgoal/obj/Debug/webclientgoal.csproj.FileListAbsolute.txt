@@ -1,0 +1,5 @@
+c:\users\queen\documents\visual studio 2013\Projects\webclientgoal\webclientgoal\bin\Debug\webclientgoal.exe.config
+c:\users\queen\documents\visual studio 2013\Projects\webclientgoal\webclientgoal\bin\Debug\webclientgoal.exe
+c:\users\queen\documents\visual studio 2013\Projects\webclientgoal\webclientgoal\bin\Debug\webclientgoal.pdb
+c:\users\queen\documents\visual studio 2013\Projects\webclientgoal\webclientgoal\obj\Debug\webclientgoal.exe
+c:\users\queen\documents\visual studio 2013\Projects\webclientgoal\webclientgoal\obj\Debug\webclientgoal.pdb
